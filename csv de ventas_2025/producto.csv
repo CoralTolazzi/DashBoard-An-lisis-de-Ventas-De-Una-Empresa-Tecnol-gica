@@ -1,0 +1,26 @@
+id_producto,descripcion,precio,id_rubro,stock
+1,Notebook Lenovo i5 16GB,450000,1,10
+2,Notebook HP Ryzen 5 8GB,380000,1,12
+3,Monitor Samsung 24",120000,2,20
+4,Teclado mecánico Redragon,18000,2,30
+5,Mouse inalámbrico Logitech,8500,2,50
+6,Disco SSD Kingston 480GB,38000,4,40
+7,Router TP-Link AC1200,22000,3,25
+8,Auriculares JBL Bluetooth,25000,5,15
+9,Cámara Logitech C920,32000,5,10
+10,Impresora HP DeskJet,95000,2,8
+11,Tablet Samsung Galaxy A8,185000,1,18
+12,Disco Duro Externo 1TB,65000,4,22
+13,Switch TP-Link 8 Puertos,15000,3,35
+14,Silla Gamer Ergonomica,89000,5,12
+15,Webcam Logitech C270,15000,5,28
+16,MacBook Air M1,899000,1,8
+17,Monitor LG UltraWide 29",245000,2,15
+18,Teclado Logitech K380,12500,2,40
+19,Mouse Razer DeathAdder,22000,2,25
+20,SSD NVMe 1TB Samsung,98000,4,20
+21,Access Point Ubiquiti,45000,3,18
+22,Auriculares Sony WH-1000XM4,299000,5,10
+23,Micrófono Blue Yeti,89000,5,12
+24,Impresora Laser Brother,125000,2,14
+25,Tablet Drawing XP-Pen,156000,1,16

@@ -1,0 +1,16 @@
+id_reseña,id_factura,id_cliente,puntaje,comentario,fecha_reseña
+1,1,1,5,"Excelente servicio, el producto llegó antes de lo esperado y en perfecto estado",2025-03-16
+2,2,2,3,"El envío llegó a tiempo pero el embalaje estaba un poco dañado",2025-04-23
+3,4,4,2,"Demora en la entrega y sin actualizaciones del pedido",2025-06-13
+4,6,6,4,"Todo bien, cumplió con lo esperado",2025-08-04
+5,7,7,2,"Producto con golpes en la caja, aunque el contenido está bien",2025-09-26
+6,11,11,5,"Perfecto! Embalaje excelente y entrega puntual",2025-01-28
+7,13,13,4,"Buen servicio, entrega rápida",2025-03-22
+8,14,14,5,"Excelente atención y seguimiento del envío",2025-04-06
+9,15,15,5,"Muy contenta con el servicio, llegó antes de lo previsto",2025-05-19
+10,16,1,4,"Segunda compra, mejoró el servicio desde la última vez",2025-06-30
+11,17,3,4,"Buen servicio, todo en orden",2025-07-08
+12,21,10,4,"Buen servicio, mejoró mucho desde mi última compra",2025-11-12
+13,22,12,5,"Excelente! Muy recomendable",2025-12-04
+14,23,15,3,"Regular, cumplió pero sin extras",2025-01-15
+15,25,4,4,"Buen servicio, entrega sin problemas",2025-03-11

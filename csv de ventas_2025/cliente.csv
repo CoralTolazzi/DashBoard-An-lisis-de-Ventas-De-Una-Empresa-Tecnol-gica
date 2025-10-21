@@ -1,0 +1,26 @@
+id_cliente,nombre,id_provincia,domicilio,telefono,email
+1,Ana Gómez,1,Calle Falsa 123,1123456789,ana.gomez@gmail.com
+2,Luis Martínez,2,Av. Siempreviva 456,1134567890,luis.martinez@yahoo.com
+3,María Fernández,3,Mitre 789,1145678901,maria.fernandez@hotmail.com
+4,Carlos Pérez,4,San Martín 101,1156789012,carlos.perez@gmail.com
+5,Lucía Rodríguez,5,Belgrano 202,1167890123,lucia.rodriguez@outlook.com
+6,Jorge López,6,Rivadavia 303,1178901234,jorge.lopez@gmail.com
+7,Sofía Díaz,7,Corrientes 404,1189012345,sofia.diaz@hotmail.com
+8,Martín Sánchez,8,Lavalle 505,1190123456,martin.sanchez@yahoo.com
+9,Valentina Torres,9,Urquiza 606,1101234567,valentina.torres@gmail.com
+10,Federico Ramírez,10,Castelli 707,1112345678,federico.ramirez@outlook.com
+11,Carolina Herrera,1,Alvear 808,1123456780,carolina.herrera@gmail.com
+12,Diego Morales,2,Pueyrredón 909,1134567891,diego.morales@yahoo.com
+13,Paula Castro,3,Sarmiento 111,1145678902,paula.castro@hotmail.com
+14,Gabriel Ríos,4,Moreno 222,1156789013,gabriel.rios@gmail.com
+15,Florencia Vega,5,Alsina 333,1167890124,florencia.vega@outlook.com
+16,Ricardo Luna,6,9 de Julio 444,1178901235,ricardo.luna@gmail.com
+17,Daniela Cruz,7,Independencia 555,1189012346,daniela.cruz@yahoo.com
+18,Pablo Mendoza,8,25 de Mayo 666,1190123457,pablo.mendoza@hotmail.com
+19,Andrea Silva,9,Salta 777,1101234568,andrea.silva@gmail.com
+20,Hernán Castro,10,Chacabuco 888,1112345679,hernan.castro@outlook.com
+21,Elena Rojas,1,Maipú 999,1123456790,elena.rojas@gmail.com
+22,Rodrigo Paz,2,San Lorenzo 1010,1134567892,rodrigo.paz@yahoo.com
+23,Verónica Montes,3,Córdoba 1111,1145678903,veronica.montes@hotmail.com
+24,Gustavo León,4,Tucumán 1212,1156789014,gustavo.leon@gmail.com
+25,Silvia Ramos,5,Jujuy 1313,1167890125,silvia.ramos@outlook.com
